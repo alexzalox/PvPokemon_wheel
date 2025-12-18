@@ -22,7 +22,7 @@
 ## 🚀 如何使用
 
 1. **線上使用**：
-   直接點擊 [你的 Streamlit 網址](https://你的網址.streamlit.app/) 即可開始旋轉。
+   直接點擊 [Streamlit 網址](https://pvpokemonwheel-jfnctlw6xfxiybjei2cqfd.streamlit.app/) 即可開始旋轉。
 
 2. **本地執行**：
    如果你想在自己電腦上執行，請確保已安裝 Python，並執行：
